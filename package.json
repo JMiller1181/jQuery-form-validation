@@ -1,0 +1,14 @@
+{
+  "name": "jquery-form-validation",
+  "version": "1.0.0",
+  "description": "jquery exercise",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.4"
+  }
+}
